@@ -1,0 +1,20 @@
+#Name{
+    text-shadow: 2px 2px gray
+}
+
+
+#pic{ 
+ float: left
+}
+
+.container{
+    background-image: linear-gradient(to right,white, Gray)
+}
+
+h2{ 
+text-shadow: 2px 2px Black;
+    font-size: 30;
+    color: aqua
+    
+
+}
